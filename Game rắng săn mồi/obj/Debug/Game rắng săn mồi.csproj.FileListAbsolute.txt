@@ -1,0 +1,7 @@
+D:\C# project\Game rắng săn mồi\Game rắng săn mồi\bin\Debug\Game rắng săn mồi.exe.config
+D:\C# project\Game rắng săn mồi\Game rắng săn mồi\bin\Debug\Game rắng săn mồi.exe
+D:\C# project\Game rắng săn mồi\Game rắng săn mồi\bin\Debug\Game rắng săn mồi.pdb
+D:\C# project\Game rắng săn mồi\Game rắng săn mồi\obj\Debug\Game rắng săn mồi.csproj.AssemblyReference.cache
+D:\C# project\Game rắng săn mồi\Game rắng săn mồi\obj\Debug\Game rắng săn mồi.csproj.CoreCompileInputs.cache
+D:\C# project\Game rắng săn mồi\Game rắng săn mồi\obj\Debug\Game rắng săn mồi.exe
+D:\C# project\Game rắng săn mồi\Game rắng săn mồi\obj\Debug\Game rắng săn mồi.pdb
